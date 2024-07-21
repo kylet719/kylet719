@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Welcome 👋
+I'm Kyle, a fourth year Bachelor of Computer Science student at UBC. I'm also a Civil Engineering graduate so feel free to reach out to discuss anything tech, engineering, or anything in between!
 <!--
 **kylet719/kylet719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
